@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "856413954824",
+    "project_id": "onyx-db0a2",
+    "storage_bucket": "onyx-db0a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856413954824:android:0521f30608d8d4895a82bd",
+        "android_client_info": {
+          "package_name": "br.com.loupdsgn.onyx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856413954824-acsvod7f09lo69bn41ri77vsj7smuo92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.loupdsgn.onyx",
+            "certificate_hash": "3329451fe040d0aa294f2cca39f4b413aeaeaa47"
+          }
+        },
+        {
+          "client_id": "856413954824-opoj6bbf52ac5obgk534kqph8pu340mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDexk3AzUhoC75gvaybA6mzbY7Nyn9Pzuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856413954824-ickahatlgchp78rdosgjlel3v0cklaal.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "856413954824-lkqr1e4kup3e6c04dv3i2h21hinteda7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.loupdsgn.onyx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
