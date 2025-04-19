@@ -29,7 +29,7 @@ import 'package:trace/models/CallsModel.dart';
 import 'package:trace/models/CommentsModel.dart';
 import 'package:trace/models/GiftsModel.dart';
 import 'package:trace/models/GiftsSentModel.dart';
-import 'package:trace/models/HashTagsModel.dart';
+import 'package:trace/models/HashtagsModel.dart';
 import 'package:trace/models/InvitedUsersModel.dart';
 import 'package:trace/models/LeadersModel.dart';
 import 'package:trace/models/MessageModel.dart';
