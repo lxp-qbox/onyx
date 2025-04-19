@@ -31,4 +31,4 @@ class NewPaymentMethodRequest extends ParseObject implements ParseCloneable {
   set setExplanation(String explain) => set<String>(keyExplanation, explain);
 
 
-} 
+}
