@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:parse_server_sdk_flutter/parse_server_sdk_flutter.dart';
 import 'package:share_plus/share_plus.dart';
 
-import '../../app/Config.dart';
+import '../../app/config.dart';
 import '../../helpers/quick_actions.dart';
 import '../../helpers/quick_help.dart';
 import '../../models/GiftsModel.dart';

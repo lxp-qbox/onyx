@@ -2,7 +2,7 @@ import 'package:get/get.dart';
 import 'package:trace/models/GiftsModel.dart';
 import 'package:trace/models/UserModel.dart';
 
-import '../../app/Config.dart';
+import '../../app/config.dart';
 
 class Controller extends GetxController {
   var countryCode = Config.initialCountry.obs;

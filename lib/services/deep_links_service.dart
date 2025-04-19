@@ -1,5 +1,3 @@
-
-
 import 'dart:async';
 
 import 'package:easy_localization/easy_localization.dart';
@@ -10,7 +8,7 @@ import 'package:trace/helpers/quick_help.dart';
 import 'package:trace/home/profile/user_profile_screen.dart';
 import 'package:parse_server_sdk_flutter/parse_server_sdk_flutter.dart';
 
-import '../app/Config.dart';
+import '../app/config.dart';
 import '../app/setup.dart';
 import '../home/feed/comment_post_screen.dart';
 import '../home/profile/profile_edit.dart';

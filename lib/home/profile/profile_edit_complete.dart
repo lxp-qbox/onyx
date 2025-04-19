@@ -16,7 +16,7 @@ import 'package:trace/ui/container_with_corner.dart';
 import 'package:trace/ui/text_with_tap.dart';
 import 'package:trace/utils/colors.dart';
 import 'package:wechat_assets_picker/wechat_assets_picker.dart';
-import '../../app/Config.dart';
+import '../../app/config.dart';
 import '../../models/FanClubModel.dart';
 import '../../ui/button_with_icon.dart';
 import 'package:calendar_date_picker2/calendar_date_picker2.dart';

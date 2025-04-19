@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 import 'package:parse_server_sdk_flutter/parse_server_sdk_flutter.dart';
 import 'package:pin_code_fields/pin_code_fields.dart';
 
-import '../../app/Config.dart';
+import '../../app/config.dart';
 import '../../app/setup.dart';
 import '../../helpers/quick_help.dart';
 import '../../models/UserModel.dart';

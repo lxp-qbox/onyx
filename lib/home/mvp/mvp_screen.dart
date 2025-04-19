@@ -7,7 +7,7 @@ import 'package:trace/models/MvpModel.dart';
 import 'package:parse_server_sdk_flutter/parse_server_sdk_flutter.dart';
 import 'package:trace/home/mvp/privilege_info_screen.dart';
 
-import '../../app/Config.dart';
+import '../../app/config.dart';
 import '../../helpers/quick_help.dart';
 import '../../models/UserModel.dart';
 import '../../ui/container_with_corner.dart';

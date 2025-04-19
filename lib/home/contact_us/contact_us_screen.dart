@@ -6,7 +6,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:trace/ui/container_with_corner.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-import '../../app/Config.dart';
+import '../../app/config.dart';
 import '../../app/setup.dart';
 import '../../helpers/quick_help.dart';
 import '../../models/UserModel.dart';

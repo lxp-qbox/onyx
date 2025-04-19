@@ -3,7 +3,7 @@
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 
-import '../../app/Config.dart';
+import '../../app/config.dart';
 import '../../helpers/quick_help.dart';
 import '../../models/UserModel.dart';
 import '../../ui/container_with_corner.dart';

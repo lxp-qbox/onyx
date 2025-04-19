@@ -2,7 +2,7 @@ import 'package:easy_localization/easy_localization.dart';
 import 'package:parse_server_sdk/parse_server_sdk.dart';
 import 'package:trace/models/UserModel.dart';
 
-import '../app/Config.dart';
+import '../app/config.dart';
 
 class SendNotifications {
 
