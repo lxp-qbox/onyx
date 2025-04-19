@@ -54,12 +54,6 @@
 @import emoji_picker_flutter;
 #endif
 
-#if __has_include(<ffmpeg_kit_flutter/FFmpegKitFlutterPlugin.h>)
-#import <ffmpeg_kit_flutter/FFmpegKitFlutterPlugin.h>
-#else
-@import ffmpeg_kit_flutter;
-#endif
-
 #if __has_include(<ffmpeg_kit_flutter_min_gpl/FFmpegKitFlutterPlugin.h>)
 #import <ffmpeg_kit_flutter_min_gpl/FFmpegKitFlutterPlugin.h>
 #else
@@ -395,7 +389,6 @@
   [FPPDeviceInfoPlusPlugin registerWithRegistrar:[registry registrarForPlugin:@"FPPDeviceInfoPlusPlugin"]];
   [DevicelocalePlugin registerWithRegistrar:[registry registrarForPlugin:@"DevicelocalePlugin"]];
   [EmojiPickerFlutterPlugin registerWithRegistrar:[registry registrarForPlugin:@"EmojiPickerFlutterPlugin"]];
-  [FFmpegKitFlutterPlugin registerWithRegistrar:[registry registrarForPlugin:@"FFmpegKitFlutterPlugin"]];
   [FFmpegKitFlutterPlugin registerWithRegistrar:[registry registrarForPlugin:@"FFmpegKitFlutterPlugin"]];
   [FilePickerPlugin registerWithRegistrar:[registry registrarForPlugin:@"FilePickerPlugin"]];
   [FLTFirebaseAnalyticsPlugin registerWithRegistrar:[registry registrarForPlugin:@"FLTFirebaseAnalyticsPlugin"]];

@@ -53,7 +53,7 @@
 				<string>Bundle ID</string>
 				<key>CFBundleURLSchemes</key>
 				<array>
-					<string>br.com.loupdsgn.onyx</string>
+					<string>com.trace.appsdabanda</string>
 				</array>
 			</dict>
 			<dict>

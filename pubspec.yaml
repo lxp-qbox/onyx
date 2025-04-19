@@ -44,7 +44,7 @@ dependencies:
   photo_manager_image_provider: ^2.1.0
   image_picker_web: ^3.1.1
   universal_io: ^2.2.2
-  ffmpeg_kit_flutter: 6.0.3-LTS
+  #ffmpeg_kit_flutter: ^6.0.3-LTS
   encrypt: ^5.0.3
 
   #Backend
@@ -201,8 +201,6 @@ dependency_overrides:
   win32: ^5.4.0
   #photo_manager: ^3.0.0-dev.2
   photo_manager: ^3.6.1
-
-  ffmpeg_kit_flutter_min_gpl: ^6.0.3
 
 flutter_native_splash:
   color: "#ffffff"
