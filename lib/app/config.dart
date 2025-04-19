@@ -3,19 +3,19 @@ import 'dart:ui';
 
 class Config {
 
-  static const String packageNameAndroid = "";
-  static const String packageNameiOS = "";
+  static const String packageNameAndroid = "br.com.loupdsgn.onyx";
+  static const String packageNameiOS = "br.com.loupdsgn.onyx";
   static const String iosAppStoreId = "1048";
-  static final String appName = "Trace";
+  static final String appName = "Onyx";
   static final String appVersion = "1.0.0";
-  static final String companyName = "Trace, inc";
-  static final String appOrCompanyUrl = "https://trace.live";
-  static final String initialCountry = 'AO'; // United States
+  static final String companyName = "Onyx, inc";
+  static final String appOrCompanyUrl = "https://loupdsgn.com.br";
+  static final String initialCountry = 'US'; // United States
 
   static final String serverUrl = "https://parseapi.back4app.com";
-  static final String liveQueryUrl = "wss://.b4a.io";
-  static final String appId = "";
-  static final String clientKey = "";
+  static final String liveQueryUrl = "wss://onyx.b4a.io";
+  static final String appId = "60fbNM2RWS8Fs0tQklxyoxRcnNoCKOy24Gf8pnpL";
+  static final String clientKey = "0gStubdftFXKfY1JueMZWogy6OzbwbEKgr6vr0WD";
 
   //OneSignal
   static final String oneSignalAppId = "";
@@ -69,11 +69,11 @@ class Config {
   static final String userAgreementUrl = "https://trace-34749.web.app/user/";
 
   // Google Play and Apple Pay In-app Purchases IDs
-  static final String credit100 = "trace.100.credits";
-  static final String credit200 = "trace.200.credits";
-  static final String credit500 = "trace.500.credits";
-  static final String credit1000 = "trace.1000.credits";
-  static final String credit2100 = "trace.2100.credits";
-  static final String credit5250 = "trace.5250.credits";
-  static final String credit10500 = "trace.10500.credits";
+  static final String credit100 = "onyx.100.credits";
+  static final String credit200 = "onyx.200.credits";
+  static final String credit500 = "onyx.500.credits";
+  static final String credit1000 = "onyx.1000.credits";
+  static final String credit2100 = "onyx.2100.credits";
+  static final String credit5250 = "onyx.5250.credits";
+  static final String credit10500 = "onyx.10500.credits";
 }
