@@ -1382,7 +1382,7 @@ packages:
     source: hosted
     version: "4.5.0"
   just_audio_web:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: just_audio_web
       sha256: "8c7e779892e180cbc9ffb5a3c52f6e90e1cbbf4a63694cc450972a7edbd2bb6d"

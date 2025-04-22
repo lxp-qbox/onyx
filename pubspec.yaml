@@ -1,4 +1,4 @@
-name: trace
+name: onyx
 description: Live streaming, video reels and feed
 publish_to: 'none'
 
@@ -88,7 +88,8 @@ dependencies:
   wakelock_plus: ^1.2.7
   whatsapp_unilink: ^2.1.0
   keyboard_attachable: ^2.1.0
-  just_audio: ^0.9.34
+  just_audio: ^0.9.46
+  just_audio_web: ^0.4.15
 
   #Story
   advstory: ^0.2.1

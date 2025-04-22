@@ -9,7 +9,7 @@
 		<key>CFBundleIconName</key>
         <string>AppIcon</string>
 		<key>CFBundleDisplayName</key>
-		<string>Trace</string>
+		<string>Onyx</string>
 		<key>CFBundleExecutable</key>
 		<string>$(EXECUTABLE_NAME)</string>
 		<key>CFBundleIdentifier</key>
@@ -21,7 +21,7 @@
 			<string>en</string>
 		</array>
 		<key>CFBundleName</key>
-		<string>Trace</string>
+		<string>Onyx</string>
 		<key>CFBundlePackageType</key>
 		<string>APPL</string>
 		<key>CFBundleShortVersionString</key>
@@ -88,7 +88,7 @@
 		<key>FacebookClientToken</key>
 		<string>9ff5c730a2e84dd93e8acfee7f3b4358</string>
 		<key>FacebookDisplayName</key>
-		<string>Trace</string>
+		<string>Onyx</string>
 		<key>GADApplicationIdentifier</key>
 		<string>ca-app-pub-9318890613494690~9013965649</string>
 		<key>LSApplicationQueriesSchemes</key>
@@ -106,17 +106,17 @@
 			<true/>
 		</dict>
 		<key>NSCameraUsageDescription</key>
-		<string>Trace need to access your camera for Live Streaming and to scan QR codes</string>
+		<string>Onyx need to access your camera for Live Streaming and to scan QR codes</string>
 		<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-		<string>Trace need your location will be used to show potential streamer near you</string>
+		<string>Onyx need your location will be used to show potential streamer near you</string>
 		<key>NSLocationAlwaysUsageDescription</key>
-		<string>Trace need your location will be used for updated activities and nearby streamers.</string>
+		<string>Onyx need your location will be used for updated activities and nearby streamers.</string>
 		<key>NSLocationWhenInUseUsageDescription</key>
-		<string>Trace need your current location will be used to show streamers nearby</string>
+		<string>Onyx need your current location will be used to show streamers nearby</string>
 		<key>NSMicrophoneUsageDescription</key>
-		<string>Trace need to access your microphone to start live broadcasting</string>
+		<string>Onyx need to access your microphone to start live broadcasting</string>
 		<key>NSPhotoLibraryUsageDescription</key>
-		<string>Trace need to access your photos, to change profile picture, make new post or reels</string>
+		<string>Onyx need to access your photos, to change profile picture, make new post or reels</string>
 		<key>NSUserTrackingUsageDescription</key>
 		<string>We need your identifier and it will be used to deliver personalized ads to you.</string>
 		<key>SKAdNetworkItems</key>
